@@ -1,6 +1,6 @@
 {
     "name": "jobvite",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Access job listings and reports from Jobvite.",
     "homepage": "http://opowerjobs.com",
     "author": "Dylan Greene <dylang@gmail.com>",
