@@ -24,7 +24,6 @@
     },
     "main": "lib/jobvite.js",
     "engines": { "node": ">=0.4.0" },
-    "scripts": { },
     "licenses" :
     [
         { "type" : "MIT", "url" : "http://github.com/isaacs/npm/raw/master/LICENSE" }
