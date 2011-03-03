@@ -1,6 +1,6 @@
 {
     "name": "jobvite",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "description": "Access job listings and reports from Jobvite.",
     "homepage": "http://github.com/dylang/jobvite",
     "author": "Dylan Greene <dylang@gmail.com>",
