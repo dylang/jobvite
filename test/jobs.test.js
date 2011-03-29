@@ -1,4 +1,4 @@
-
+require('proto');
 var log = require('logging').from(__filename);
 
 var Jobvite = require('../lib/jobvite'),
