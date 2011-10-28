@@ -1,4 +1,3 @@
-require('proto');
 var log = require('logging').from(__filename);
 
 var Jobvite = require('../lib/jobvite'),
@@ -8,8 +7,6 @@ Jobs.config({
                 jobvite_company_id: 'qgY9Vfw2',
                 cache_directory: './test/data'
             });
-
-var testCase = require('nodeunit').testCase;
 
 module.exports = {
         load: function (test) {

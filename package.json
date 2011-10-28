@@ -1,6 +1,6 @@
 {
     "name": "jobvite",
-    "version": "0.2.0",
+    "version": "0.2.3",
     "description": "Access job listings and reports from Jobvite.",
     "homepage": "http://github.com/dylang/jobvite",
     "author": "Dylan Greene <dylang@gmail.com>",
@@ -15,12 +15,14 @@
     "bugs":
     {
         "mail": "dylang@gmail.com",
-        "web": "http://github.com/dylang/jobvite/issues"
+        "url": "http://github.com/dylang/jobvite/issues"
     },
     "dependencies":
     {
-        "logging": ">= 2.0.0",
-        "xml2js": ">= 0.1.5"
+        "logging": "*",
+        "xml2js": "*",
+        "request": "*"
+
     },
     "main": "lib/jobvite.js",
     "engines": { "node": ">=0.4.0" },
