@@ -19,13 +19,13 @@
     },
     "dependencies":
     {
-        "logging": "*",
-        "xml2js": "*",
-        "request": "*"
+        "logging": "~2",
+        "xml2js": "~0.2.8",
+        "request": "~2"
 
     },
     "main": "lib/jobvite.js",
-    "engines": { "node": ">=0.4.0" },
+    "engines": { "node": ">=0.8.22" },
     "licenses" :
     [
         { "type" : "MIT", "url" : "http://github.com/isaacs/npm/raw/master/LICENSE" }
